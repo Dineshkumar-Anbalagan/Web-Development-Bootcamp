@@ -1,0 +1,49 @@
+/**************************** TAG SELECTORS ****************************/
+
+p{
+  color: violet;
+}
+
+body{
+  background-color: purple;
+}
+
+/* hover is used to make come action while we hover our mouse over that particular
+
+image or a text */
+
+img:hover{
+  background-color: gold;
+}
+
+/**************************** CLASSES ****************************/
+
+/*
+
+we can use more than one class name inside the same class tag. refer to line
+
+15 on index.html
+
+ */
+
+.bacon{
+  background-color: green;
+}
+
+.circular{
+  border-radius: 100%;
+}
+
+/**************************** ID's ****************************/
+
+/*
+
+It is similar to class but we cannot use the same heading name more then once in a
+
+single page. Meanwhile we can use more than one classes on the same page.
+
+*/
+
+#heading{
+  color: blue;
+}
