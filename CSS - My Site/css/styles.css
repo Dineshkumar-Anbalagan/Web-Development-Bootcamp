@@ -1,58 +1,57 @@
-.top-container{
-  background-color: #FCE2DB;
-  text-align: center;
-  height: 805px;
-  width: 1500px;
-}
-
-.middle-container{
-  background-color: #F1C6D3;
-  height: 820px;
-  width: 1500px;
-}
-
-.bottom-container{
-  background-color: #E4A3D4;
-  height: 820px;
-  width: 1500px;
-}
-
-.lowest_section{
-  background-color: #C295D8;
-  height: 300px;
-  width: 1500px;
-}
-
 table{
   padding-top: 200px;
 }
 
 body{
   margin: 0px;
-  text-align: center;
-  font-family: 'Merriweather', serif;
+  text-align: left;
+  background-color: #000000;
+  padding-left: 150px;
+  /* font-family: 'Merriweather', serif; */
 }
 
 h1{
   margin-top: 0;
-  padding-top: 50px;
+  padding-top: 270px;
+  /* padding-left: 150px; */
   font-family: 'Sacramento', sans-serif;
+  /* font-family: sans-serif; */
+  font-size: 50px;
+  color: #C996CC;
 }
 
 h2{
-  font-family: 'Montserrat', sans-serif;
+  /* font-family: 'Montserrat', sans-serif; */
+  color: white;
 }
 
 h3{
-  font-family: 'Montserrat', sans-serif;
+  /* font-family: 'Montserrat', sans-serif; */
+  color: white;
 }
 
+p{
+  color: white;
+  /* padding-left: 150px; */
+}
 
 img{
   width: 70%;
   height: 70%;
 }
 
-#mountain{
-  padding-top: 60PX;
+td{
+  color: white;
+}
+
+a{
+  color: white;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
 }
